@@ -27,7 +27,7 @@ Explore the different features and functionalities implemented in each project.
 Contributing
 I do not allow duplication of my projects. However, you are welcome to learn from them and create your own versions. Contributions in the form of suggestions or feedback are appreciated!
 
-License
+License:
 This project does not have a license. Feel free to use the code for learning purposes, but please do not duplicate it.
 
 Contact Information
