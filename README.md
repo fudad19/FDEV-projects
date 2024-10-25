@@ -9,7 +9,7 @@ To set up the FDEV projects locally, follow these steps:
 
 Download the source code from GitHub:
 
-Visit this link to access the repository.
+Visit this link https://github.com/fudad19/FDEV-projects.git  to access the repository.
 Extract the downloaded file:
 
 Unzip the file to your desired location on your computer.
